@@ -1,7 +1,5 @@
-a = 20
-b = 20
-print(a+b)
-print('Jaydip is the Head of this repo and he made this change from visual studio code')
-# main branch
-print(a*b)
-print('Just made new PR req')
+def sum(x,y):
+    return x + y
+
+print(sum(10,20))
+print("made a new function for sum")
