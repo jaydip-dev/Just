@@ -1,4 +1,4 @@
-a = 50
+a = 20
 b = 20
 print(a+b)
 print('Jaydip is the Head of this repo and he made this change from visual studio code')
