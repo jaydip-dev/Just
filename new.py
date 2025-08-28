@@ -1,5 +1,7 @@
 def sum(x,y):
-    return x + y
+    print(f'Sum of {x + y}') 
 
-print(sum(10,20))
+
 print("made a new function for sum")
+
+sum(10,30)
