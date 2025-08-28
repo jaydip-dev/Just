@@ -1,7 +1,7 @@
-def sum(x,y):
+def mult(x,y):
     print(f'Sum of {x + y}') 
 
 
-print("made a new function for sum")
+print("made a new function for multification")
 
-sum(10,30)
+mult(10,30)
