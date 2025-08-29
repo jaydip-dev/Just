@@ -3,8 +3,8 @@ def sum(x,y):
 def mult(x,y):
     print(f'Mult of {x * y}') 
 def dev(x,y):
-    print(f'dev of {x / y)')
+    print(f'dev of {x / y}')
 print("made a new function for multification")
-sum(x,y)
+sum(10,30)
 mult(10,30)
-dev(x,y)
+dev(10,30)
